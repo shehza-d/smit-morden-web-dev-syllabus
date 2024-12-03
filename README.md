@@ -7,7 +7,7 @@
 ## Module 1: Web Designing
 |                |                     |
 | -------------- | ------------------- |
-| Pre-requisites | Undergrad Student   |
+| Pre-requisites | Undergrad Student OR Passed Intro to Programming course |
 | Duration       | 2 Months - 48 Hours |
 | Quizzes        | 1. HTML5            |
 |                | 2. CSS3             |
